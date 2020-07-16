@@ -1,0 +1,36 @@
+{
+  "name": "cf-workers-logger",
+  "version": "0.1.0",
+  "description": "Log Cloudflare Workers requests",
+  "main": "index.js",
+  "dependencies": {
+    "notify-gchat": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-a-s-a-n/cf-workers-logger.git"
+  },
+  "keywords": [
+    "cloudflare",
+    "workers",
+    "cloudflare-workers",
+    "cf-worker",
+    "es",
+    "elastic-search",
+    "elastic",
+    "search",
+    "log",
+    "logger",
+    "ecs"
+  ],
+  "author": "Hasan Sanli <hasan@cloudflare.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h-a-s-a-n/cf-workers-logger/issues"
+  },
+  "homepage": "https://github.com/h-a-s-a-n/cf-workers-logger#readme"
+}
